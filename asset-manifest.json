@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactliveportfolio/static/css/main.2ecf97ec.css",
+    "main.js": "/reactliveportfolio/static/js/main.d207b03d.js",
+    "static/js/787.86e5f866.chunk.js": "/reactliveportfolio/static/js/787.86e5f866.chunk.js",
+    "static/media/DreamDesTine.png": "/reactliveportfolio/static/media/DreamDesTine.269d3569de6f44d58091.png",
+    "static/media/Cheersshop.png": "/reactliveportfolio/static/media/Cheersshop.568a02ec07b30bf32aec.png",
+    "static/media/Sandhya_Patil_Resume.pdf": "/reactliveportfolio/static/media/Sandhya_Patil_Resume.1d9295ac30f72dddb160.pdf",
+    "static/media/slacPro2.jpeg": "/reactliveportfolio/static/media/slacPro2.f9767bccd7f3a0042c32.jpeg",
+    "static/media/express.png": "/reactliveportfolio/static/media/express.343cc889d9204327f934.png",
+    "static/media/bootstrap.jpg": "/reactliveportfolio/static/media/bootstrap.95d993fa12d4cb51111e.jpg",
+    "index.html": "/reactliveportfolio/index.html",
+    "main.2ecf97ec.css.map": "/reactliveportfolio/static/css/main.2ecf97ec.css.map",
+    "main.d207b03d.js.map": "/reactliveportfolio/static/js/main.d207b03d.js.map",
+    "787.86e5f866.chunk.js.map": "/reactliveportfolio/static/js/787.86e5f866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ecf97ec.css",
+    "static/js/main.d207b03d.js"
+  ]
+}
