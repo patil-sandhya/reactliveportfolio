@@ -1,0 +1,22 @@
+.Projects{
+    width: 100%;
+   
+    background-color: #1a1a1a ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  
+  /* medium */
+  @media all and (min-width:620px) and (max-width:1024px){
+    .Projects{
+      width: 100%;
+    }
+  }
+
+  /* small */
+
+  @media all and (min-width:320px) and (max-width:620px){
+    .Projects{
+      width: 100%;
+    }
+  }
